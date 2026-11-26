@@ -1,0 +1,12 @@
+{
+  "name": "unbound-rolemembers",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "ubd build"
+  },
+  "devDependencies": {
+    "@unbound-app/cli": "latest",
+    "@unbound-app/types": "latest"
+  }
+}
