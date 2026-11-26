@@ -1,0 +1,14 @@
+{
+  "name": "RoleMembers",
+  "description": "عرض قائمة الأعضاء الحاملين لرتبة معينة عبر أمر /rolemembers",
+  "authors": [
+    {
+      "name": "Sohaib",
+      "id": "000000000000000000"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_group_24px"
+  }
+}
