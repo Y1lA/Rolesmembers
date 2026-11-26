@@ -1,14 +1,14 @@
 {
+  "id": "com.sohaib.rolemembers",
   "name": "RoleMembers",
-  "description": "عرض قائمة الأعضاء الحاملين لرتبة معينة عبر أمر /rolemembers",
+  "description": "عرض أعضاء أي رتبة في السيرفر عبر أمر /rolemembers",
+  "version": "1.0.0",
+  "type": "plugin",
   "authors": [
     {
       "name": "Sohaib",
-      "id": "000000000000000000"
+      "id": "100000000000000000"
     }
   ],
-  "main": "index.js",
-  "vendetta": {
-    "icon": "ic_group_24px"
-  }
+  "main": "index.js"
 }
